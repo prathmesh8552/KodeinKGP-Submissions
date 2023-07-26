@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+#demobutton{
+    background-color: rgb(110, 110, 238);
+    text-decoration: solid;
+    text-decoration-color: black;
+}
